@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="url" label="URL" language="en" table="x_664350_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <help/>
+            <hint/>
+            <label>URL</label>
+            <language>en</language>
+            <name>x_664350_wish_list_wish_item</name>
+            <plural>URLs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 05:22:59</sys_created_on>
+            <sys_id>5daf25222fd1301016bb56e62799b6b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>URL</sys_name>
+            <sys_package display_value="Wish List" source="x_664350_wish_list">b3b4a5662f91301016bb56e62799b67c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">b3b4a5662f91301016bb56e62799b67c</sys_scope>
+            <sys_update_name>sys_documentation_x_664350_wish_list_wish_item_url_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 05:22:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
